@@ -112,6 +112,10 @@ public abstract class BaseDialogFragment extends DialogFragment {
 			this.mInflater = inflater;
 		}
 
+		public LayoutInflater getLayoutInflater() {
+			return mInflater;
+		}
+
 		public Builder setTitle(int titleId) {
 			this.mTitle = mContext.getText(titleId);
 			return this;
