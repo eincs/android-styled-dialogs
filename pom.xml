@@ -81,7 +81,6 @@
 
 	<modules>
 		<module>library</module>
-		<module>demo</module>
 	</modules>
 
 	<dependencyManagement>

@@ -9,7 +9,7 @@
 		<version>1.0.1</version>
 	</parent>
 
-	<artifactId>android-styled-dialogs</artifactId>
+	<artifactId>android-styled-dialogs-library</artifactId>
 	<packaging>apklib</packaging>
 
 	<name>Android StyledDialogs library</name>
